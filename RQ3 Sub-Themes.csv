@@ -1,0 +1,78 @@
+Main Theme,Sub Theme,Number of Papers
+Data,Additional data,24
+Data,Commercial projects,29
+Data,Data different programming languages,8
+Data,Data more information,1
+Data,Data quality,1
+Data,Defect types,2
+Data,Different domains,10
+Data,Generalisability,22
+Data,Mixed dataset,1
+Data,Mobile apps data,1
+Data,Open source data,2
+Data,Open source projects,7
+Data,Study replication,14
+Try/Combine New Techniques,Bayesian learners,1
+Try/Combine New Techniques,Class/data imbalance,1
+Try/Combine New Techniques,Code smells,1
+Try/Combine New Techniques,Concurrency mutation,1
+Try/Combine New Techniques,Cost/probability models,1
+Try/Combine New Techniques,Data filtering,3
+Try/Combine New Techniques,Data pre-processing,7
+Try/Combine New Techniques,Data/class imbalance,6
+Try/Combine New Techniques,Deep learning,2
+Try/Combine New Techniques,Dictionary learning,1
+Try/Combine New Techniques,Different classifiers/methods,10
+Try/Combine New Techniques,Different validation techniques,2
+Try/Combine New Techniques,Empirical study,3
+Try/Combine New Techniques,Ensemble learning,8
+Try/Combine New Techniques,Feature selection/representation,7
+Try/Combine New Techniques,Genetic algorithms,2
+Try/Combine New Techniques,Global models,1
+Try/Combine New Techniques,Intelligent algorithms,1
+Try/Combine New Techniques,Local-learning models,1
+Try/Combine New Techniques,Multi-objective optimisation,2
+Try/Combine New Techniques,Network embedding,2
+Try/Combine New Techniques,Neural networks,3
+Try/Combine New Techniques,Parallel techniques,1
+Try/Combine New Techniques,Parameter tuning/optimisation,14
+Try/Combine New Techniques,Random forest,1
+Try/Combine New Techniques,SVM,1
+Try/Combine New Techniques,Sampling methods,6
+Try/Combine New Techniques,Test case prioritisation/selection,3
+Try/Combine New Techniques,Text mining,3
+Try/Combine New Techniques,Transfer learning models,1
+Try/Combine New Techniques,Variable importance,1
+New Explanatory Metrics,Change metrics,1
+New Explanatory Metrics,Code metrics,1
+New Explanatory Metrics,Complexity metrics,1
+New Explanatory Metrics,Context metrics,1
+New Explanatory Metrics,Cost metrics,1
+New Explanatory Metrics,Interactive metrics,1
+New Explanatory Metrics,Measurement metrics,1
+New Explanatory Metrics,More software metrics,9
+New Explanatory Metrics,Process metrics,4
+New Explanatory Metrics,Quality metrics,1
+New Explanatory Metrics,Shared metrics CPDP,1
+New Explanatory Metrics,Social metrics,2
+New Explanatory Metrics,Text features,1
+Defect Prediction Type,Cross-project defect prediction,17
+Defect Prediction Type,Cross-version defect prediction,1
+Defect Prediction Type,Different granularity,3
+Defect Prediction Type,Effort-aware defect prediction,4
+Defect Prediction Type,Heterogenous defect prediction,2
+Defect Prediction Type,Just-in-time defect prediction,3
+Defect Prediction Type,Method-level defect prediction,2
+Defect Prediction Type,Semi/unsupervised learning,6
+Defect Prediction Type,Supervised learning,1
+Defect Prediction Type,Within-version defect prediction,1
+Study Performance,Cost vs performance,3
+Study Performance,Measuring privacy,1
+Study Performance,New performance measures,6
+Study Performance,Performance factors,11
+Study Performance,Performance improvement/optimisation,4
+Industry Follow-Up,Developing tools,1
+Industry Follow-Up,Evaluation with developers,5
+Industry Follow-Up,Extending defect prediction applications,3
+Industry Follow-Up,More explainable/actionable predictions,8
+Industry Follow-Up,Visualisations,2
