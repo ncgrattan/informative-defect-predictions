@@ -1,0 +1,137 @@
+Papers,Evaluated by Developers,Statistical Evaluation Measure,Explainability Measure,Measure Type
+review_1,No,Recall & Pf & Inspect & MCC,No,None
+review_2,No,F1-score & AUC & Precision & Recall & Accuracy,No,None
+review_3,No,G-mean,No,None
+review_4,No,MCC & AUC & Pf,No,None
+review_5,No,G-Mean & MCC & Human Recall & Human False Alarm,No,None
+review_6,No,AUC & Precision & Recall & F1-score & False Alarm Rate,No,None
+review_7,No,F1-Score & Balanced Accuracy & G-Mean,No,None
+review_8,No,"Precision & MAP & NDCG & Recall & Accuracy & AUC & F1-Score
+& R-squared & Train RMSE & Test RMSE & Train MAE & Test MAE",No,None
+review_9,No,Precision & Recall & AUC & F1-Score & ROC Curve Plot & Precision-Recall Curve Plot,No,None
+review_10,No,Precision & Recall & F1-Score & AUC & Cost-Effort,No,None
+review_11,No,F1 & MCC,Yes,Interpretability
+review_12,No,AUC & F1-Score & Balance & Recall & Pf,NULL,None
+review_13,No,Precision & Recall & IFA & PMI & PLI & PofB & PofB/PMI & PofB/PLI & Popt,NULL,None
+review_14,No,G-Mean,NULL,None
+review_15,No,"Percent of Perfect Cleans & Percent of Non-Perfect Cleans & False Omission Rate &
+AUC & F1-Score",NULL,None
+review_16,No,AUC & PofBX,NULL,None
+review_17,No,Precision & Recall & F-Score,NULL,None
+review_18,No,MCC & Recall & Precision & AUC,NULL,None
+review_19,No,G-Mean,NULL,None
+review_20,No,Accuracy & Sensitivity & Specificity & Precision & Recall & F-Score & G-Mean & MCC & AUC,NULL,None
+review_21,No,Accuracy,NULL,None
+review_22,No,Accuracy & Precision & Recall & F1-Score,NULL,None
+review_23,No,Precision & Recall & AUC,NULL,None
+review_24,Yes,AUC & IFA & Popt,Yes,Explainability
+review_25,No,"Recall & False Alarm Rate & Initial False
+Alarm & Top K%LOC Recall",NULL,None
+review_26,No,"F1-score & AUC & Recall & Effort & Popt & Top-N &
+& IFAline",NULL,None
+review_27,No,Accuracy & PofB & NPofB,NULL,None
+review_28,No,AUC & Precision & Recall & F1-Score & PofB & Popt,NULL,None
+review_29,No,F1-Score & Popt,NULL,None
+review_30,No,Precision & Recall & F1-Score,NULL,None
+review_31,No,Accuracy & F1-Score & MCC,NULL,None
+review_32,No,Precision & Recall & F1-Score & AUC,NULL,None
+review_33,No,Recall & Precision & Pf & Popt & Ifa & AUC,NULL,None
+review_34,No,AAE & Pred,NULL,None
+review_35,No,MAE,NULL,None
+review_36,No,AUC & ImpR,NULL,None
+review_37,No,AUC & Balance & Pd & Pf,NULL,None
+review_38,No,AUC & Precision & Recall & F1-Score & MCC & Brier Score,NULL,None
+review_39,No,Recall & Precision & Pf & F-Score & G-Measure & Balance & Accuracy & Error & Error Type 1 & Error Type 2 & MCC & Consistency & AUC & AUC Alberg & AUC Recall Pf NECM10 & NECM25 & Cost & NofB20% & NofC80%,NULL,None
+review_40,No,F1-Score & R-squared & MSE,NULL,None
+review_41,No,AUC & Balance & F1-Score & G-measure & MCC & FPR ,NULL,None
+review_42,No,None,Yes,Local Faithfulness & Explanation Precision
+review_43,No,AUC & ROC & Precision & Recall & MCC & F-Score & True Negative Rate & False Positive Rate & False Negative Rate,NULL,None
+review_44,No,AUC & F1-Score,NULL,None
+review_45,No,AUC & F1-Score & MCC,NULL,None
+review_46,No,AUC & F1-Score & G-Measure & MCC & Rank Score,NULL,None
+review_47,No,AUC,NULL,None
+review_48,No,MCC & AUC & Kappa Coefficient & Recall & Precision,NULL,None
+review_49,No,None,Yes,Explanation Accuracy
+review_50,No,G-Measure & AUC & MCC,NULL,None
+review_51,No,F1-Score & Balance & G-measure & MCC,NULL,None
+review_52,No,AUC & Accuracy & Balanced Accuracy & F1-Score & PR-AUC,Yes,Actionability
+review_53,No,Accuracy & False Positive Rate & Precision & Recall & F1-Score,NULL,None
+review_54,No,Precision & Recall & F1-Score & AUC & PF & MCC & G-Mean & G-Measure,NULL,None
+review_55,No,Recall & AUC & F1-Score,NULL,None
+review_56,No,Precision & Recall & F1-Score,NULL,None
+review_57,No,AUC & Accuracy & Precision,NULL,None
+review_58,No,Recall & Precision & F1-Score,NULL,None
+review_59,No,AUC & Balance & MCC,NULL,None
+review_60,No,Popt & Recall & Precision & F1-Score,NULL,None
+review_61,No,AUC & F1-Score,NULL,None
+review_62,No,Recall & Pf & Precision & F1-Score & MCC & Brier Score & AUC,NULL,None
+review_63,No,AUC,NULL,None
+review_64,No,F1-Score & MCC & G-Measure & AUC,NULL,None
+review_65,No,Precision & Recall,NULL,None
+review_66,No,AUC & PofB20,NULL,None
+review_67,No,Precision & Recall & F1-Score & AUC & PF & MCC & G-Mean & G-Measure,NULL,None
+review_68,No,Precision & Recall & F1-Score & PofB20,NULL,None
+review_69,No,Balance & Recall & AUC,NULL,None
+review_70,No,AUC & Precision & Recall & Bias & Absolute Bias,NULL,None
+review_71,No,AUC & F1-Score & MCC,NULL,None
+review_72,No,AUC & F1-Score & G-Measure & MCC,NULL,None
+review_73,No,AUC & R-Squared & Precision & Recall & F1-Score,NULL,None
+review_74,No,Recall & Pf & F1-Score & AUC,NULL,None
+review_75,No,F1-Score & AUC,NULL,None
+review_76,No,Other Measure,NULL,None
+review_77,No,AUC & MCC & Brier Score,NULL,None
+review_78,No,F1-Score & G-Measure & MCC & AUC,NULL,None
+review_79,No,AUC & G-Measure & RRA & Precision & Recall,NULL,None
+review_80,No,Precision & Recall & F1-Score & AUC,NULL,None
+review_81,No,G-Measure & AUC,NULL,None
+review_82,No,Precision & Recall & F1-Score & G-Mean & G-Measure & Balance & Matthew's Correlation Coefficient & True Negative Rate & False Positive Rate & AUC & Brier Score & LogLoss,NULL,None
+review_83,No,Precision & Recall & F1-Score & PofB20 & AUC,NULL,None
+review_84,No,Recall & G-Mean,NULL,None
+review_85,No,AUC,Yes,Interpretability
+review_86,No,AAE & ARE & Precision & Recall & F1-Score,NULL,None
+review_87,No,Popt & FPA,NULL,None
+review_88,No,Pd & Pf & Balance,NULL,None
+review_89,No,Precision & Recall & F1-Score & Brier Score & AUC,NULL,None
+review_90,No,MCC,NULL,None
+review_91,No,F1-score & Recall & Precision,NULL,None
+review_92,No,Recall & Precision & F1-Score & Effort-Aware Recall & Effort-Aware Precision & Effort-Aware F1-Score,NULL,None
+review_93,Yes,F1-Score & Precision & Recall & AUC,NULL,None
+review_94,Yes,Recall & Precision & F1-Score & PCI & IFA,NULL,None
+review_95,No,AUC & G-Mean & Balance & Pd & Pf,NULL,None
+review_96,No,AUC & F1-Score & Precision & Accuracy & Recall,NULL,None
+review_97,No,AUC,NULL,None
+review_98,No,AUC,NULL,None
+review_99,No,Recall & Precision & Accuracy & F1-Score & G-Mean & MCC & AUC,NULL,None
+review_100,No,AUC & Brier Score & Wald X2 Maximum Likelihood,NULL,None
+review_101,No,Accuracy & Precision & Recall & F1-Score,NULL,None
+review_102,No,AUC & F1-Score,NULL,None
+review_103,No,F1-Score & G-Mean & Balance,NULL,None
+review_104,No,Precision & Recall & F1-Score & AUC,NULL,None
+review_105,No,F1-Score & G-Mean & Balance & Effort-Aware Recall & Effort-Aware F-measure,NULL,None
+review_106,No,F1-Score & AUC & MCC,NULL,None
+review_107,No,ACC & Popt & F1-Score,NULL,None
+review_108,No,Precision & Specificity & Sensitivity & AUC,NULL,None
+review_109,No,Precision & Recall,NULL,None
+review_110,No,Recall & Precision & F1-Score & IFA & PCI,NULL,None
+review_111,No,Cost Effectiveness & F1-Score,NULL,None
+review_112,No,Precision & Recall & False Positive Rate & Balance & F1-Score & AUC,NULL,None
+review_113,No,ACC & Popt,NULL,None
+review_114,No,AUC & G-Mean & Pd & Pf,NULL,None
+review_115,No,ACC & Popt & Precision & Recall & F1-Score & PofB20,NULL,None
+review_116,No,Precision & Recall & F1-Score,NULL,None
+review_117,No,Mean Fault Percentile Average,NULL,None
+review_118,No,Precision & Recall & F1-Score & MCC,NULL,None
+review_119,No,AUC & Balance & Pd & Pf & Popt & ACC,NULL,None
+review_120,No,Pd & Pf & Balance & G-Measure & F1-Score,NULL,None
+review_121,No,Accuracy & Precision & Recall,NULL,None
+review_122,No,Accuracy & Precision & Recall & F1-Score,NULL,None
+review_123,No,F1-Score & AUC,NULL,None
+review_124,No,F1-Score & Balance & G-Mean & MCC,NULL,None
+review_125,No,R-Squared,NULL,None
+review_126,No,FPA & Kendall Rank Coefficient,NULL,None
+review_127,No,AUC & MCC & F1-Score & Recall,NULL,None
+review_128,No,AUC & FPA & ER-AVG & CE,NULL,None
+review_129,No,MAR & MdAR & SA & Effect Size,NULL,None
+review_130,No,AUC & G-Mean,NULL,None
+review_131,No,AUC & Recall,NULL,None
+review_132,No,Effort-Aware Recall & Effort-Aware F-measure,NULL,None
