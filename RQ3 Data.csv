@@ -1,0 +1,133 @@
+Papers,Explainability Future,Explainability Type,Subthemes,Data,Try/Combine New Techniques,New Explanatory Metrics,Defect Prediction Type,Study Performance,Industry Follow-Up
+review_1,No,No,Different Defect Prediction Scenarios & Additional Data,1,0,0,1,0,0
+review_2,No,No,Commercial Projects,1,0,0,0,0,0
+review_3,No,No,Qualitative Analysis & Training Waiting Time,0,1,0,0,1,0
+review_4,No,No,Additional Data & Different Programming Languages & Performance Improvement/Optimisation & Transfer Learning & Alignment Techniques,1,1,0,0,1,0
+review_5,No,No,Performance Improvement/Optimisation & Additional Data & Human Effort & Impact of Git Blame,1,1,0,0,1,1
+review_6,No,No,Different Domains,1,0,0,0,0,0
+review_7,No,No,Additional Data & Different Programming Languages & Transfer Learning,1,0,0,1,0,0
+review_8,No,No,Different Programming Languages & Additional Data,1,0,0,0,0,0
+review_9,No,No,LLMs & Performance Improvement/Optimisation & Additional Inputs,0,1,1,0,1,0
+review_10,No,No,Additional Data & Commercial Projects & Different Environments & New Classifier Types & Control Study,1,1,0,0,0,0
+review_11,No,No,Additional Data & Rule Mining & Self-Adaptive Minimum,1,1,0,0,0,0
+review_12,No,No,Data/Class Imbalance & Performance Improvement/Optimisation & Parameter Tuning,1,0,0,0,1,0
+review_13,No,No,NULL,0,0,0,0,0,0
+review_14,No,No,Performance Improvement/Optimisation & Additional Data & Parameter Tuning & Offline Models & Computational Cost,1,0,0,1,1,0
+review_15,Yes,More Informative Outputs,Defect Severity & System Reliability & Defect Associations,0,1,0,0,0,1
+review_16,No,No,Additional Data & New Methods/Approaches & Different Granularity & Code Smells & Data Noise & Feature Engineering & Different Domains & Security,1,1,1,0,0,1
+review_17,No,No,Additional Data & Different Programming Languages & Feature Engineering,1,0,1,0,0,0
+review_18,No,No,None,0,0,0,0,0,0
+review_19,No,No,New Performance Metrics & New/New Classifiers/Techniques & Data Noise & Training Waiting Time & Performance Improvement/Optimisation,1,1,0,0,1,0
+review_20,No,No,Transfer Learning & Deep Learning & Additional Data & Performance Improvement/Optimisation & Different Programming Languages & Security,1,1,0,1,1,0
+review_21,No,No,Deep Learning,0,1,0,0,0,0
+review_22,No,No,Performance Improvement/Optimisation & Additional Data & Parameter Tuning & Feature Engineering & Generalisability,1,0,1,1,1,0
+review_23,No,No,Feature Engineering & Cross-Project Software Prediction,0,0,1,1,0,0
+review_24,Yes,Explainability,More Explainable/Actionable Predictions & Generalisability & Study Replication & Additional Data & Cross-Project Defect Prediction & Research Recommendation & Just-In-Time Defect Prediction & Heterogenous Defect Prediction,1,0,0,1,0,1
+review_25,No,No,Performance Improvement/Optimisation & Data Noise & Deep Learning & New Approach,1,1,0,1,0,0
+review_26,No,No,Additional Data & Commercial Projects & Implement Tools & Different Programming Languages,1,0,0,0,0,1
+review_27,No,No,Study Replication & Data Preprocessing & Developer/Qualitative Study,1,0,0,0,0,1
+review_28,No,No,Deep Learning & Commercial Projects & Feature Engineering,1,1,1,0,0,0
+review_29,No,No,Additional Data & Different Programming Languages & Performance Improvement/Optimisation,1,0,0,0,1,0
+review_30,Yes,Explainability,Model Interpretability & Cross-Project Defect Prediction,0,0,0,1,0,1
+review_31,No,No,Commercial Projects,1,0,0,0,0,0
+review_32,No,No,Generalisability & Additional Data & New Performance Metrics & New Classifiers/Techniques & Deep Learning & Cross-Project Defect Prediction,1,1,0,1,1,0
+review_33,No,No,New Performance Metrics & Study Replication,1,0,0,0,1,0
+review_34,No,No,New Classifiers/Techniques & Feature Engineering,0,1,1,0,0,0
+review_35,No,No,Feature Selection/Representation & Additional Data & New Performance Metrics,1,0,1,0,1,0
+review_36,No,No,New Classifiers/Techniques,0,1,0,0,0,0
+review_37,No,No,New Classifiers/Techniques & Generalisability & Data Noise & Performance Improvement/Optimisation,1,1,0,0,1,0
+review_38,No,No,Study Reliability,1,0,0,0,0,0
+review_39,Yes,Explainability,Commercial Projects & Costs of Defect Prediction & Practicalities of Defect Prediction,1,0,0,0,0,1
+review_40,No,No,Build Dataset & Additional Data & Feature Engineering,1,0,1,0,0,0
+review_41,No,No,None,0,0,0,0,0,0
+review_42,No,No,None,0,0,0,0,0,0
+review_43,No,No,Additional Data & New Classifiers/Techniques & Time Series,1,1,0,0,0,0
+review_44,No,No,Feature Selection/Representation & New Classifiers/Techniques,0,1,1,0,0,0
+review_45,No,No,None,0,0,0,0,0,0
+review_46,No,No,Generalisability & Additional Data & Open Source Projects & Commercial Projects & More Software Metrics & Heterogenous Defect Prediction,1,0,1,1,0,0
+review_47,No,No,Parameter Tuning & New Performance Measures & Multi-Objective Optimisation,0,1,0,0,1,0
+review_48,No,No,Data Noise & Just-In-Time Defect Prediction & Study Replication & Feature Engineering,1,0,1,1,0,1
+review_49,Yes,Explainability,More Explainable/Actionable Predictions,0,0,0,0,0,1
+review_50,No,No,Cross-Project Defect Prediction & Data/Class Imbalance & Shared Metrics CPDP & More Software Metrics & Additional Data & Dictionary Learning & Data Different Programming Languages,1,1,1,1,0,0
+review_51,No,No,Transfer Learning,0,0,0,1,0,0
+review_52,No,No,Study Replication,1,0,0,0,0,0
+review_53,No,No,Change Metrics & More Software Metrics & Process Metrics & Performance Factors & Performance Improvement/Optimisation,0,0,1,0,1,0
+review_54,No,No,Data/Class Imbalance & Deep Learning,0,1,0,0,0,0
+review_55,No,No,Commercial Projects & Semi/Unsupervised Learning & Data/Class Imbalance & Different Domains,1,1,0,1,0,0
+review_56,No,No,Data/Class Imbalance & Performance Improvement/Optimisation & Feature Engineering & Cross-Project Defect Prediction & New Classifiers/Techniques,1,1,1,1,1,0
+review_57,No,No,Feature Extraction,0,0,1,0,0,0
+review_58,No,No,Performance Factors & Performance Improvement/Optimisation,0,0,0,0,1,0
+review_59,No,No,New Performance Measures & Data/Class Imbalance & Additional Data & Performance Factors & New Classifiers/Techniques,1,1,0,0,1,0
+review_60,No,No,Additional Data & New Applications & Feature Engineering,1,0,1,0,0,1
+review_61,No,No,Additional Data & Performance Improvement/Optimisation & Transfer Learning,1,0,0,1,1,0
+review_62,No,No,Commercial Projects & Online Learning & Performance Factors & Feature Engineering,1,0,1,1,1,0
+review_63,No,No,None,0,0,0,0,0,0
+review_64,Yes,More Informative Outputs,Additional Data & Commercial Projects & Parameter Tuning & Cross-Project Defect Prediction & Effort-Aware Defect Prediction,1,0,0,1,1,0
+review_65,No,No,Network Embedding & Generalisability,1,1,0,0,0,0
+review_66,No,No,New Classifiers/Techniques,0,1,0,0,0,0
+review_67,No,No,Additional Data & Commercial Projects,1,0,0,0,0,0
+review_68,No,No,Extending Defect Prediction Applications & Method-Level Defect Prediction,0,0,0,1,0,1
+review_69,No,No,Commercial Projects & Data Pre-Processing,1,0,0,0,0,0
+review_70,No,No,New Classifiers/Techniques & Different Validation Techniques,0,1,0,0,0,0
+review_71,No,No,Study Replication & Feature Selection/Representation & Different Domains,1,0,1,0,0,0
+review_72,No,No,Generalisability & Cross-Project Defect Prediction & Commercial Projects & Performance Factors,1,0,0,1,1,0
+review_73,No,No,Commercial Projects & Study Replication,1,0,0,0,0,0
+review_74,No,No,Data Pre-Processing & Commercial Projects & Performance Improvement/Optimisation & New Performance Measures,1,0,0,0,1,0
+review_75,No,No,None,0,0,0,0,0,0
+review_76,No,No,Test Case Prioritisation & Cross-Project Defect Prediction & Additional Data & Generalisability & Data Different Programming Languages,1,1,0,1,0,0
+review_77,No,No,Context Metrics & Commercial Projects,1,0,1,0,0,0
+review_78,No,No,Parameter Tuning & Performance Factors & Cross-Project Defect Prediction,0,1,0,1,1,0
+review_79,No,No,Additional Data & Cost/Probability Models & New Performance Measures,1,1,0,0,1,0
+review_80,No,No,Additional Data & More Software Metrics & Evaluation With Developers & Parameter Tuning & Ensemble Learning,1,1,1,0,1,1
+review_81,No,No,Additional Data & Parameter Tuning & Data/Class Imbalance & Commercial Projects & Open Source Projects & Measuring Privacy,1,1,0,0,1,0
+review_82,No,No,Parameter Tuning & Ensemble Learning &  Random Forest,0,1,0,0,1,0
+review_83,No,No,More Software Metrics & Process Metrics & Concurrency Mutation,0,1,1,0,0,0
+review_84,No,No,Commercial Projects & Parameter Tuning & New Classifiers/Techniques,1,1,0,0,1,0
+review_85,Yes,Explainability,Evaluation With Developers & Generalisability & Different Domains & More Explainable/Actionable Predictions & Performance Factors & Bayesian Learners,1,1,0,0,1,1
+review_86,No,No,New Classifiers/Techniques & Different Domains,1,1,0,0,0,0
+review_87,No,No,Additional Data & New Classifiers/Techniques & Generalisability,1,1,0,0,0,0
+review_88,No,No,Complexity Metrics & Commercial Projects & Generalisability & Interactive Metrics & Ensemble Learning,1,1,1,0,0,0
+review_89,No,No,Code Smells & Local-Learning Models & Performance Factors,0,1,0,0,1,0
+review_90,No,No,Study Replication & Neural Networks & Genetic Algorithms,1,1,0,0,0,0
+review_91,No,No,New Classifiers/Techniques,0,1,0,0,0,0
+review_92,Yes,More Informative Outputs,Cross-Project Defect Prediction & Study Replication & More Explainable/Actionable Predictions & Feature Selection/Representation & Data Different Programming Languages,1,0,1,1,0,0
+review_93,Yes,Explainability,More Explainable/Actionable Predictions & Different Granularity & Generalisability & Defect Types & Method-Level Defect Prediction & Just-In-Time Defect Prediction & Different Domains,1,0,0,1,0,1
+review_94,No,No,Additional Data & Commercial Projects & Empirical Study & Parameter Tuning & Evaluation With Developers & Supervised Learning & Semi/Unsupervised Learning & Effort-Aware Defect Prediction & Cost vs Performance,1,1,0,1,1,1
+review_95,No,No,None,0,0,0,0,0,0
+review_96,No,No,Cross-Project Defect Prediction & Parameter Tuning & Data/Class Imbalance & Deep Learning & Feature Selection/Representation & Data Pre-Processing & Cross-Version Defect Prediction & Within-Version Defect Prediction,1,1,1,1,1,0
+review_97,No,No,Commercial Projects & More Explainable/Actionable Predictions & Developing Tools & Neural Networks & Open Source Projects & Different Domains,1,1,0,0,0,1
+review_98,No,No,Feature Selection/Representation & Generalisability,1,0,1,0,0,0
+review_99,No,No,New Classifiers/Techniques & Cross-Project Defect Prediction & Visualisations & Social Metrics & Additional Data & Cost Metrics,1,1,1,1,0,0
+review_100,No,No,Commercial Projects & Study Replication & Data Filtering & Cost vs Performance & Data Pre-Processing & New Classifiers/Techniques,1,1,0,0,1,0
+review_101,No,No,Commercial Projects & Different Granularity & Different Domains & Evaluation With Developers,1,0,0,0,0,1
+review_102,No,No,Data More Information & Text Features & Code Metrics & Process Metrics & Feature Selection/Representation & Text Mining & Performance Factors,1,1,1,0,1,0
+review_103,No,No,Different Domains & Generalisability & Commercial Projects & Parameter Tuning & Cross-Project Defect Prediction,1,1,0,1,1,0
+review_104,No,No,Study Replication & Additional Data & Ensemble Learning & Method-Level Defect Prediction,1,1,0,1,0,0
+review_105,No,No,Data Different Programming Languages & Generalisability & Test Case Prioritisation/Selection & New Classifiers/Techniques,1,1,0,0,0,0
+review_106,No,No,Cross-Project Defect Prediction & Additional Data,1,0,0,1,0,0
+review_107,No,No,Commercial Projects & Generalisability & Data Quality & Performance Improvement/Optimisation,1,0,0,0,1,0
+review_108,No,No,Commercial Projects & Semi/Unsupervised Learning & Neural Networks & SVM & Text Mining,1,1,0,1,0,0
+review_109,No,No,Text Mining,0,1,0,0,0,0
+review_110,No,No,Additional Data & New Classifiers/Techniques & Different Validation Techniques,1,1,0,0,0,0
+review_111,No,No,Parameter Tuning & Additional Data & Commercial Projects & Open Source Data & Ensemble Learning,1,1,0,0,1,0
+review_112,No,No,Cross-Project Defect Prediction & Commercial Projects & Open Source Data & Ensemble Learning & Data Pre-Processing & Cost vs Performance,1,1,0,1,1,0
+review_113,No,No,Generalisability & Additional Data & More Software Metrics & Study Replication & Open-Source Projects & Commercial Projects & Effort-Aware Defect Prediction,1,0,1,1,0,0
+review_114,No,No,Additional Data & Parameter Tuning & Commercial Projects & Sampling Methods,1,1,0,0,1,0
+review_115,No,No,Commercial Projects & Additional Data & Effort-Aware Defect Prediction & New Performance Measures,1,0,0,1,1,0
+review_116,No,No,Additional Data & Extending Defect Prediction Applications & Generalisability & Data Different Programming Languages ,1,0,0,0,0,1
+review_117,No,No,Test Case Prioritisation & Extending Defect Prediction Applications,0,1,0,0,0,1
+review_118,No,No,Data Different Programming Languages & Process Metrics & Performance Factors,1,0,1,0,1,0
+review_119,No,No,Study Replication & More Software Metrics & Parallel Techniques & Generalisability & Semi/Unsupervised Learning & New Classifiers/Techniques & Sampling Methods & New Performance Measures & Effort-Aware Defect Prediction,1,1,1,1,1,0
+review_120,No,No,More Software Metrics & Cross-Project Defect Prediction & Class/Data Imbalance & Measurement Metrics & Genetic Algorithms & Sampling Methods & New Performance Measures,0,1,1,1,1,0
+review_121,No,No,Additional Data & New Classifiers/Techniques,1,1,0,0,0,0
+review_122,No,No,Feature Selection/Representation & Data Pre-Processing,1,0,1,0,0,0
+review_123,No,No,Additional Data & Commercial Projects & Ensemble Learning & Cross-Project Defect Prediction & Performance Factors & Evaluation With Developers & More Explainable/Actionable Predictions & Different Granularity & Visualisations & Study Replication,1,1,0,1,1,1
+review_124,No,No,Additional Data & Commercial Projects & Variable Importance & Open Source Projects & Commercial Projects,1,1,0,0,0,0
+review_125,No,No,Additional Data & New Classifiers/Techniques,1,1,0,0,0,0
+review_126,No,No,Commercial Projects & Semi/Unsupervised Learning & Generalisability & Open-Source Projects & Multi-Objective Optimisation & Feature Selection/Representation & Empirical Study & Performance Improvement/Optimisation & Performance Factors,1,1,1,1,1,0
+review_127,No,No,Data Filtering & Just-In-Time Defect Prediction & Data Different Programming Languages,1,1,0,1,0,0
+review_128,No,No,Additional Data & Generalisability & Study Replication & Data Filtering & Different Domains & Performance Factors,1,1,0,0,1,0
+review_129,No,No,Intelligent Algorithms & Parameter Tuning,0,1,0,0,1,0
+review_130,No,No,Study Replication & Generalisability & Quality Metrics & Sampling Methods,1,1,1,0,0,0
+review_131,No,No,More Software Metrics & Semi/Unsupervised Learning & Data Different Programming Languages & Cross-Project Defect Prediction,1,0,1,1,0,0
+review_132,No,No,Data/Class Imbalance & Mobile Apps Data,1,1,0,0,0,0
