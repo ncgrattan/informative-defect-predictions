@@ -1,0 +1,144 @@
+Papers,Output,Prediction Granularity,Classifier Category,Severity/Impact Output,Explainability,Explainability/Information Type
+review_1,Binary,Commit/Change & File & Package,Regression Models & Bayesian Learners & Decision Tree Ensemble Learners & Neural Networks & Support Vector Machines & Decision Trees,No,Yes,No
+review_2,Binary & Multi-Label,Commit/Change & Function,Neural Networks,No,No,No
+review_3,Binary,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_4,Binary,Class & File & Function & Package,Discrimination Analysis,Severity Dataset,No,No
+review_5,Binary & Effort/Ranking,Commit/Change,Decision Trees,No,Yes,Transparent Model Usage
+review_6,Binary,Unknown,Decision Tree Ensemble Learners,Severity Dataset,No,No
+review_7,Binary,Class,Regression Models,Severity Dataset,Yes,Transparent Model Usage
+review_8,Binary & Effort/Ranking,Clone,"Learning-To-Rank Learners & Decision Tree Ensemble Learners & Regression Models, Bayesian Learners & Bagging and Boosting Learners",No,No,No
+review_9,Severity,Method,Clustering-Based Learner & Support Vector Machines & Bayesian Learners & Decision Trees & Neural Networks & Bagging and Boosting Learners,Yes,No,No
+review_10,Binary & Effort/Ranking,File,Regression Models & Decision Tree Ensemble Learners & Clustering-Based Learner & Simple Unsupervised Models,Severity Dataset,Yes,"Global Interpretive
+Feature Importance
+Techniques "
+review_11,Binary,Entity,Decision Trees & Bayesian Learners & Rule-based Learners,No,Yes,Rule Interpretation
+review_12,Binary,File,Support Vector Machines & Decision Trees & Clustering-Based Learner & Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_13,Binary & Number of Defects & Effort/Ranking,Module,Bayesian Learners & Regression Models & Learning-To-Rank Learners & Support Vector Machines & Rule-Based Learners & Neural Networks & Decision Trees & Genetic Algorithms & Clustering-Based Learner,Severity Dataset,No,No
+review_14,Binary,Commit/Change,Regression Models & Neural Networks & Bayesian Learners & Decision Tree Ensemble Learners,No,No,No
+review_15,Binary,Module,Regression Models & Clustering-Based Learner & Support Vector Machines & Bayesian Learners & Neural Networks & Decision Trees,Severity Dataset,No,No
+review_16,Binary & Effort/Ranking,Class & Method,Decision Tree Ensemble Learners & Regression Models & Bayesian Learners & Neural Networks & Other Ensemble Learner & Clustering-Based Learner,No,No,No
+review_17,Binary,Clone Change,Neural Networks,No,No,No
+review_18,Binary,Class & File & Function,Support Vector Machines,Severity Dataset,No,No
+review_19,Binary,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_20,Binary,Clone Change,Regression Models,No,Yes,Transparent Model Usage
+review_21,Binary,Module,Bayesian Learners & Clustering-Based Learner & Support Vector Machines & Decision Trees,No,No,No
+review_22,Binary,Module,Neural Networks,No,No,No
+review_23,Binary,File,Decision Tree Ensemble Learners,No,No,No
+review_24,Probability Mapping to Binary & Effort/Ranking,File,Regression Models & Decision Tree Ensemble Learners & Neural Networks & Bagging and Boosting Learners,No,Yes,LIME and LIME-HPO
+review_25,Probability Mapping to Binary & Effort/Ranking,File & Line,Decision Tree Ensemble Learners & Regression Models & Support Vector Machines & Clustering-Based Learner & Neural Networks,No,No,No
+review_26,Probability Mapping to Binary & Defect Density & Effort/Ranking,Commit/Change,Neural Networks,No,No,No
+review_27,Probability Mapping to Binary & Effort/Ranking,Unknown,Rule-Based Learners & Clustering-Based Learner & Decision Trees & Bayesian Learners & Support Vector Machines & Decision Tree Ensemble Learners & Regression Models & Bayesian Learners & Bagging and Boosting Learners,No,No,No
+review_28,Binary & Effort/Ranking,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_29,Binary & Effort/Ranking,File,Neural Networks,No,No,No
+review_30,Binary,File,Decision Tree Ensemble Learners,No,No,No
+review_31,Binary,Class & File & Function,Clustering-Based Learner,Severity Dataset,Yes,Transparent Model Usage
+review_32,Binary,Instance,Clustering-Based Learner & Decision Trees & Bayesian Learners & Decision Tree Ensemble Learners & Regression Models,Severity Dataset,No,No
+review_33,Binary,Commit/Change & File & Package,Support Vector Machines & Bayesian Learners & Regression Models & Decision Tree Ensemble Learners,No,No,No
+review_34,Number of Defects,Module,Regression Models & Support Vector Machines & Clustering-Based Learner & Genetic Algorithms & Bayesian Learners & Decision Trees & Neural Networks,No,No,No
+review_35,Number of Defects,Class,Decision Tree Ensemble Learners,No,No,No
+review_36,Binary,Module,Regression Models,No,Yes,Transparent Model Usage
+review_37,Binary,Instance,Clustering-Based Learner & Decision Trees & Bayesian Learners & Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_38,Binary,Commit/Change,Regression Models,No,Yes,Transparent Model Usage
+review_39,Multi-Label,File,Decision Tree Ensemble Learners & Bayesian Learners & Decision Trees & Regression Models & Other Ensemble Learners,No,No,No
+review_40,Binary & Number of Defects,Class,Neural Networks,No,No,No
+review_41,Binary,Class,Regression Models & Bayesian Learners & Decision Tree Ensemble Learners & Support Vector Machines,No,No,No
+review_42,Binary,File,Neural Networks,No,Yes,LIME and LIME-HPO & Word Omission
+review_43,Binary,Commit/Change,Decision Tree Ensemble Learners & Neural Networks & Bagging and Boosting Learners,Severity Dataset,No,No
+review_44,Binary,Class,Regression Models & Bayesian Learners & Rule-Based Learners & Voting Learners & Decision Trees,No,No,No
+review_45,Binary,Method,Decision Tree Ensemble Learners,No,No,No
+review_46,Binary,Class & File & Function,Regression Models,Severity Dataset,Yes,Transparent Model Usage
+review_47,Binary,Unknown,Decision Tree Ensemble Learners & Regression Models & Support Vector Machines & Decision Trees & Bayesian Learners & Clustering-Based Learner & Neural Networks & Passive Aggressive Classifiers & Bagging and Boosting Learners,No,No,No
+review_48,Binary,Class,Decision Trees & Rule-Based Learners & Bayesian Learners & Decision Tree Ensemble Learners,No,No,No
+review_49,Binary,Commit,Unable to determine,No,Yes,LIME and LIME-HPO
+review_50,Binary,Module,Regression Models,Severity Dataset,Yes,Transparent Model Usage
+review_51,Binary,Instance,Regression Models,Severity Dataset,Yes,Transparent Model Usage
+review_52,Measure of Likelihood/Risk & Effort/Ranking,Commit,Decision Tree Ensemble Learners,No,No,No
+review_53,Binary,Commit,Bagging and Boosting Learners & Neural Networks & Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_54,Binary,Module,Decision Tree Ensemble Learners & Clustering-Based Learner,No,No,No
+review_55,Binary,Module,Other Ensemble Learners,No,No,No
+review_56,Binary,File,Neural Networks,No,No,No
+review_57,Binary,File,Decision Tree Ensemble Learners & Bayesian Learners & Clustering-Based Learner & Support Vector Machines,Severity Dataset,No,No
+review_58,Binary,Method,Decision Tree Ensemble Learners & Neural Networks,No,No,No
+review_59,Binary,Instance,Clustering-Based Learner & Support Vector Machines & Decision Tree Ensemble Learners & Decision Trees,No,No,No
+review_60,Defect Density & Effort/Ranking,Commit/Change & Class,Simple Unsupervised Models,No,Yes,Transparent Model Usage
+review_61,Binary,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_62,Binary,Commit/Change,Bayesian Learners & Decision Tree Ensemble Learners,No,Yes,"Global Interpretive
+Feature Importance
+Techniques"
+review_63,Binary,Commit/Change,Neural Networks,No,No,No
+review_64,Binary,Instance,Neural Networks,Severity Dataset,No,No
+review_65,Binary & Effort/Ranking,Class,Decision Tree Ensemble Learners,Severity Dataset,No,No
+review_66,Probability Mapping to Binary & Effort/Ranking,File,Decision Tree Ensemble Learners & Regression Models & Bayesian Learners & Decision Trees,No,No,No
+review_67,Binary,File,Neural Networks,No,No,No
+review_68,Binary & Effort/Ranking,Commit/Change & File,Regression Models & Bayesian Learners & Decision Trees,No,Yes,Transparent Model Usage
+review_69,Binary,Class & File & Function,Bayesian Learners & Decision Tree Ensemble Learners & Support Vector Machines & Clustering-Based Learner & Regression Models & Other Ensemble Learners,No,No,No
+review_70,Binary,Class,Decision Tree Ensemble Learners & Regression Models & Bayesian Learners & Other Ensemble Learners & Clustering-Based Learner & Decision Trees & Voting Learners & Neural Networks,No,No,No
+review_71,Binary,Module,Decision Tree Ensemble Learners & Regression Models,Severity Dataset,Yes,"Global Interpretive
+Feature Importance
+Techniques"
+review_72,Binary,Class,Decision Trees & Regression Models & Bayesian Learners & Decision Tree Ensemble Learners & Neural Networks & Support Vector Machines & Simple Unsupervised Models,No,No,No
+review_73,Binary,File,Regression Models,No,Yes,Transparent Model Usage
+review_74,Binary,Instance,Other Ensemble Learners,No,No,No
+review_75,Binary,Commit/Change,Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_76,Binary & Effort/Ranking,File,Neural Networks,No,No,No
+review_77,Binary,Commit/Change,Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_78,Binary,Class,Decision Trees,No,No,No
+review_79,Binary,Module,Regression Models & Bayesian Learners,No,No,No
+review_80,Binary,Method,Decision Tree Ensemble Learners & Support Vector Machines & Decision Trees & Network-Based Learners,No,No,No
+review_81,Binary,Instance,Regression Models & Clustering-Based Learner,No,Yes,Transparent Model Usage
+review_82,Binary,Combination,Bayesian Learners & Clustering-Based Learner & Regression Models & Neural Networks & Discrimination Analysis & Rule-Based Learners & Decision Trees & Support Vector Machines & Bagging and Boosting Learners,No,Yes,Transparent Model Usage
+review_83,Binary,Function,Decision Tree Ensemble Learners,No,Yes,"Global Interpretive
+Feature Importance
+Techniques"
+review_84,Binary,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_85,Binary,Commit/Change & Module,Bayesian Learners,No,Yes,"Transparent Model Usage & Global Interpretive
+Feature Importance Techniques"
+review_86,Number of Defects,Module,Regression Models & Neural Networks,No,No,No
+review_87,Defect Density,Module,Bayesian Learners & Regression Models & Decision Trees & Bagging and Boosting Learners & Decision Tree Ensemble Learners & Clustering-Based Learner & Support Vector Machines & Learning-To-Rank Learners,No,No,No
+review_88,Binary,File,Regression Models & Bayesian Learners & Clustering-Based Learner,No,Yes,Transparent Model Usage
+review_89,Probability Mapping to Binary,Class,Regression Models,No,Yes,"Transparent Model Usage & Global Interpretive
+Feature Importance Techniques"
+review_90,Binary,Class,Decision Tree Ensemble Learners & Regression Models & Support Vector Machines & Decision Trees & Bayesian Learners & Clustering-Based Learner & Rule-Based Learners,Severity Dataset,No,No
+review_91,Binary,Instance,Neural Networks,No,No,No
+review_92,Binary & Effort/Ranking,Module,Decision Tree Ensemble Learners,Severity Dataset,No,No
+review_93,Binary,File,Decision Tree Ensemble Learners & Regression Models,No,No,No
+review_94,Binary & Effort/Ranking,Commit/Change,Regression Models,No,Yes,Transparent Model Usage
+review_95,Binary,Module,Decision Tree Ensemble Learners & Support Vector Machines & Decision Trees & Clustering-Based Learner & Neural Networks,No,No,No
+review_96,Binary,Instance,Decision Tree Ensemble Learners,Severity Dataset,No,No
+review_97,Binary,Commit/Change,Neural Networks,No,No,No
+review_98,Binary,Unknown,Regression Models & Decision Trees & Decision Tree Ensemble Learners & Bayesian Learners & Other Ensemble Learners & Network-Based Learners & Clustering-Based Learner,No,No,No
+review_99,Binary,Combination,Genetic Algorithms & Other Ensemble Learners & Regression Models & Network-Based Learners & Bagging and Boosting Learners & Decision Trees & Decision Tree Ensemble Learners & Bayesian Learners & Support Vector Machines,No,No,No
+review_100,Binary,Commit/Change,Regression Models,No,Yes,"Transparent Model Usage & Global Interpretive
+Feature Importance Techniques"
+review_101,Binary,Commit/Change,Decision Trees,No,Yes,Transparent Model Usage
+review_102,Binary,Script,Decision Tree Ensemble Learners,No,No,No
+review_103,Binary,Module,Regression Models,No,Yes,Transparent Model Usage
+review_104,Binary,Method,Decision Tree Ensemble Learners & Support Vector Machines & Network-Based Learners & Decision Trees,No,No,No
+review_105,Binary & Effort/Ranking,Class,Regression Models,No,Yes,Transparent Model Usage
+review_106,Binary,Class,Other Ensemble Learners,No,No,No
+review_107,Binary & Effort/Ranking,Commit/Change,Regression Models,No,Yes,Transparent Model Usage
+review_108,Binary,Instance,Neural Networks,No,No,No
+review_109,Defect Density,Topic,Bayesian Learners,No,Yes,Transparent Model Usage
+review_110,Binary & Effort/Ranking,Commit/Change,Regression Models,No,Yes,Transparent Model Usage
+review_111,Binary & Effort/Ranking,Commit/Change,Decision Tree Ensemble Learners,No,No,No
+review_112,Binary,File,Regression Models,Severity Dataset,Yes,Transparent Model Usage
+review_113,Binary & Effort/Ranking,File,Regression Models & Neural Networks & Support Vector Machines & Clustering-Based Learner & Rule-Based Learners & Bayesian Learners & Decision Trees & Decision Tree Ensemble Learners & Bagging and Boosting Learners & Other Ensemble Learners & Simple Unsupervised Models,No,No,No
+review_114,Binary & Effort/Ranking,Class,Decision Tree Ensemble Learners & Decision Trees & Clustering-Based Learner & Neural Networks & Support Vector Machines,No,No,No
+review_115,Measure of Likelihood/Risk & Effort/Ranking,Commit/Change,Simple Unsupervised Models,No,Yes,Transparent Model Usage
+review_116,Binary,Combination,Decision Tree Ensemble Learners & Regression Models & Bayesian Learners & Neural Networks & Rule-Based Learners & Decision Trees,No,No,No
+review_117,Effort/Ranking,Unknown,Swarm-Intelligence-Based Learners,No,No,No
+review_118,Binary,Method,Decision Tree Ensemble Learners & Bayesian Learners & Decision Trees,No,No,No
+review_119,Binary & Effort/Ranking,Class,Decision Tree Ensemble Learners & Support Vector Machines & Clustering-Based Learner & Neural Networks,No,No,No
+review_120,Binary,Class,Decision Trees & Decision Tree Ensemble Learners & Bayesian Learners & Regression Models & Clustering-Based Learner & Other Ensemble Learners,No,No,No
+review_121,Binary,Unknown,Regression Models,No,Yes,Transparent Model Usage
+review_122,Binary,Module,Support Vector Machines,No,No,No
+review_123,Multi-Label & Effort/Ranking,Commit/Change Files,Decision Tree Ensemble Learners,No,No,Global Interpretive Feature Importance Techniques
+review_124,Binary,File,Regression Models,No,Yes,Transparent Model Usage
+review_125,Number of Defects,Class,Regression Models,No,Yes,Transparent Model Usage
+review_126,Effort/Ranking,Class,Regression Models & Bagging and Boosting Learners & Simple Unsupervised Models,No,No,No
+review_127,Binary & Effort/Ranking,Commit/Change,Decision Tree Ensemble Learners & Regression Models & Bayesian Learners,No,Yes,Global Interpretive Feature Importance Techniques
+review_128,Binary & Effort/Ranking,Module,Decision Tree Ensemble Learners,No,No,No
+review_129,Defect Density,File,Clustering-Based Learner,No,Yes,Transparent Model Usage
+review_130,Binary,Module,Support Vector Machines & Bayesian Learners & Decision Tree Ensemble Learners & Decision Trees,Severity Dataset,No,No
+review_131,Binary,File,Decision Tree Ensemble Learners,No,No,No
+review_132,Binary & Effort/Ranking,Commit/Change,Regression Models,No,Yes,Transparent Model Usage
